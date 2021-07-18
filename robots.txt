@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://edgewa.re
+
+# Sitemaps
+Sitemap: https://edgewa.re/sitemap.xml
